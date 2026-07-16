@@ -56,13 +56,9 @@ This implementation extends the traditional game by introducing:
 .
 ├── connect4.py
 ├── README.md
-├── docs/
-│   ├── Synopsis.pdf
-│   └── Presentation.pdf
-└── screenshots/
-    ├── gameplay.png
-    ├── winner.png
-    └── leaderboard.png
+└── docs/
+    ├── Synopsis.pdf
+    └── Presentation.pdf
 ```
 
 ---
@@ -89,22 +85,6 @@ This implementation extends the traditional game by introducing:
 - CRUD operations
 - GUI programming
 - Session-based gameplay
-
----
-
-## 🖼️ Screenshots
-
-### Gameplay
-
-> *(Add screenshot here)*
-
-### Winning Screen
-
-> *(Add screenshot here)*
-
-### Leaderboard
-
-> *(Add screenshot here)*
 
 ---
 
